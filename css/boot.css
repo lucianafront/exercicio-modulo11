@@ -82,7 +82,7 @@ input[type="color"]{height: 40px; cursor: pointer;}
 
 /*BOOT*/
 /*CONTAINER*/
-.container{float: left; width: 100%;}
+.container{float: left; width: 100%; padding-top: 30px;}
 .content{width: 80%; margin: 0 10%; padding: 40px 0;}
 .content-page{padding: 60px 0;}
 
